@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly_express as px
+import plotly.express as px
 from APIs import apod_generator
 from APIs import apod_generator_list
 import os
