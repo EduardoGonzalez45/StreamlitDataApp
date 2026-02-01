@@ -1,0 +1,6 @@
+Things to import:
+Streamlit
+Plotly
+os
+dotenv
+datetime
